@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$USER_HOME$/Dropbox/JAVA MOJE/DerekBanas/Darek Banas Tutorial/Java Code/lib/commons-lang3-3.1-javadoc.jar!/" />
+    <libelement value="jar://$USER_HOME$/Dropbox/JAVA MOJE/DerekBanas/Darek Banas Tutorial/Java Code/lib/commons-lang3-3.1-sources.jar!/" />
+    <libelement value="jar://$USER_HOME$/Dropbox/JAVA MOJE/DerekBanas/Darek Banas Tutorial/Java Code/lib/commons-lang3-3.1-tests.jar!/" />
+    <libelement value="jar://$USER_HOME$/Dropbox/JAVA MOJE/DerekBanas/Darek Banas Tutorial/Java Code/lib/commons-lang3-3.1.jar!/" />
+    <libelement value="file://D:/Java/Do zainstalowania/mysql-connector-java-5.1.37/mysql-connector-java-5.1.37-bin.jar" />
+    <libelement value="file://D:/Java/Do zainstalowania/jfreechart-1.0.19/jfreechart-1.0.19-demo.jar" />
+    <src_description expected_position="0">
+      <src_folder value="file://$USER_HOME$/Dropbox/JAVA MOJE/DerekBanas/Darek Banas Tutorial/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$USER_HOME$/Dropbox/JAVA MOJE/DerekBanas/Darek Banas Tutorial/bin" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/Dropbox/JAVA MOJE/DerekBanas/Darek Banas Tutorial">
+      <sourceFolder url="file://$USER_HOME$/Dropbox/JAVA MOJE/DerekBanas/Darek Banas Tutorial/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="1.7" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="commons-lang3-3.1-javadoc.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Dropbox/JAVA MOJE/DerekBanas/Darek Banas Tutorial/Java Code/lib/commons-lang3-3.1-javadoc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang3-3.1-sources.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Dropbox/JAVA MOJE/DerekBanas/Darek Banas Tutorial/Java Code/lib/commons-lang3-3.1-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang3-3.1-tests.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Dropbox/JAVA MOJE/DerekBanas/Darek Banas Tutorial/Java Code/lib/commons-lang3-3.1-tests.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang3-3.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Dropbox/JAVA MOJE/DerekBanas/Darek Banas Tutorial/Java Code/lib/commons-lang3-3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-5.1.37-bin.jar">
+        <CLASSES>
+          <root url="file://D:/Java/Do zainstalowania/mysql-connector-java-5.1.37/mysql-connector-java-5.1.37-bin.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jfreechart-1.0.19-demo.jar">
+        <CLASSES>
+          <root url="file://D:/Java/Do zainstalowania/jfreechart-1.0.19/jfreechart-1.0.19-demo.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
